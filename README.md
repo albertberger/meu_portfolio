@@ -17,4 +17,4 @@ Para entrar em contato comigo, você pode preencher o formulário nesta página 
 Este portfólio foi desenvolvido com HTML, CSS e JavaScript.
 
 
-![Portfólio - Albert](https://github.com/albertberger/Portfolio-Albert/assets/114450295/dda17eff-7570-4046-8623-6c225ca5829e)
+![Portfólio - Albert](https://github.com/albertberger/meu_portfolio/assets/114450295/be82c129-e62f-43e1-9228-ab272984228f)
